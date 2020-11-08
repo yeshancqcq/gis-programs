@@ -1,0 +1,182 @@
+﻿id,lon,lat,code,eng,cn,name,web,country,degrees,continent,country_en
+1,-104.9614048,39.67726803,US,DU,丹佛大学,University of Denver,https://science.du.edu/geography,美国,硕士 博士,北美洲,United States
+2,-77.3094177,38.82794037,US,GMU,乔治梅森大学,George Mason University,https://science.gmu.edu/academics/departments-units/geography-geoinformation-science,美国,硕士 博士,北美洲,United States
+3,-110.9504128,32.23255132,US,UAZ,亚利桑那大学,University of Arizona,https://geography.arizona.edu/,美国,硕士 博士,北美洲,United States
+4,-111.9316292,33.41754408,US,ASU,亚利桑那州立大学,Arizona State University,https://sgsup.asu.edu/,美国,硕士 博士,北美洲,United States
+5,-87.5366592,33.21025474,US,UA,亚拉巴马大学,University of Alabama,https://geography.ua.edu/,美国,硕士 博士,北美洲,United States
+6,-88.2312012,40.06125658,US,UIUC,伊利诺伊大学香槟分校,University of Illinois at Urbana-Champaign,https://ggis.illinois.edu/,美国,硕士 博士,北美洲,United States
+7,-83.3694076,33.93880275,US,UGA,佐治亚大学,University of Georgia,https://geography.uga.edu/,美国,硕士 博士,北美洲,United States
+8,-84.3974018,33.7754375,US,Ga Tech,佐治亚理工学院,Georgia Institue of Technology,https://planning.gatech.edu/,美国,硕士,北美洲,United States
+9,-82.3500824,29.63077121,US,UF,佛罗里达大学,University of Florida,https://geog.ufl.edu/,美国,硕士 博士,北美洲,United States
+10,-84.299984,30.43905409,US,FSU,佛罗里达州立大学,Florida State University,https://geography.fsu.edu/,美国,硕士 博士,北美洲,United States
+11,-82.4142837,28.05834744,US,USF,南佛罗里达大学,University of South Florida,http://hennarot.forest.usf.edu/main/depts/geosci/,美国,硕士 博士,北美洲,United States
+12,-82.96875,39.96870074,US,OSU,俄亥俄州立大学,The Ohio State University,https://geography.osu.edu/,美国,硕士 博士,北美洲,United States
+13,-97.4415207,35.18868061,US,OU,俄克拉荷马大学,University of Oklahoma,https://www.ou.edu/ags/geography,美国,硕士 博士,北美洲,United States
+14,-97.0820618,36.12733784,US,OK State,俄克拉荷马州立大学,Oklahoma State University,https://geog.okstate.edu/,美国,硕士 博士,北美洲,United States
+15,-123.0729675,44.04071231,US,Oregon,俄勒冈大学,University of Oregon,https://geography.uoregon.edu/,美国,硕士 博士,北美洲,United States
+16,-123.2793903,44.56222117,US,Oregon State,俄勒冈州立大学,Oregon State University,https://ceoas.oregonstate.edu/geography-graduate-program,美国,硕士 博士,北美洲,United States
+17,-71.8228626,42.25139303,US,Clark,克拉克大学,Clark University,https://www.clarku.edu/departments/geography/,美国,硕士 博士,北美洲,United States
+18,-119.8148346,39.54641192,US,Nevada,内华达大学,"University of Nevada, Reno",https://www.unr.edu/geography,美国,硕士 博士,北美洲,United States
+19,-96.6999435,40.81731697,US,UNL,内布拉斯加大学林肯分校,"University of Nebraska, Lincoln",https://sgis.unl.edu/,美国,硕士 博士,北美洲,United States
+20,-119.8436737,34.4111584,US,UCSB,加州大学圣巴巴拉分校,University of California Santa Barbara,https://geog.ucsb.edu/,美国,硕士 博士,北美洲,United States
+21,-79.0437984,35.90448558,US,UNC,北卡罗来纳大学,"University of North Carolina, Chapel Hill",https://geography.unc.edu/,美国,硕士 博士,北美洲,United States
+22,-78.6730957,35.76880066,US,NC State,北卡罗来纳州立大学,North Carolina State University,https://cnr.ncsu.edu/geospatial,美国,硕士 博士,北美洲,United States
+23,-122.3042679,47.65105013,US,UW,华盛顿大学,University of Washington,https://geography.washington.edu/,美国,硕士 博士,北美洲,United States
+24,-118.285675,34.01851844,US,USC,南加州大学,The University of Southern California,https://spatial.usc.edu/,美国,硕士,北美洲,United States
+25,-81.0248566,33.99290369,US,UoSC,南卡罗来纳大学,University of South Carolina,https://www.sc.edu/study/colleges_schools/artsandsciences/geography/index.php,美国,硕士 博士,北美洲,United States
+26,-86.484375,39.0789081,US,IUB,印第安纳大学,"Indiana University, Bloomington",https://geography.indiana.edu/about/index.html,美国,硕士 博士,北美洲,United States
+27,-117.0723724,32.77327502,US,SDSU,圣迭戈州立大学,San Diego State Univeristy,https://geography.sdsu.edu/,美国,硕士,北美洲,United States
+28,-95.2631378,38.9512659,US,KU,堪萨斯大学,University of Kansas,https://geog.ku.edu/,美国,硕士 博士,北美洲,United States
+29,-75.1553679,39.98054016,US,Temple,天普大学,Temple University,https://www.cla.temple.edu/geography-and-urban-studies/,美国,硕士,北美洲,United States
+30,-85.4992104,32.58949021,US,Auburn,奥本大学,Auburn University,http://www.auburn.edu/cosam/departments/geosciences/index.htm,美国,硕士 博士,北美洲,United States
+31,-89.4142056,43.0755025,US,Wisc,威斯康辛大学麦迪逊分校,University of Wisconsin-Madison,https://geography.wisc.edu/,美国,硕士 博士,北美洲,United States
+32,-75.1933694,39.95120096,US,Penn,宾夕法尼亚大学,University of Pennsylvania,https://penniur.upenn.edu/,美国,硕士,北美洲,United States
+33,-77.7392578,40.9052097,US,PSU,宾夕法尼亚州立大学,Pennsylvania State University,https://www.geog.psu.edu/,美国,硕士 博士,北美洲,United States
+34,-83.7365913,42.27514954,US,UMich,密歇根大学,University of Michigan,https://seas.umich.edu/,美国,硕士 博士,北美洲,United States
+35,-84.4759369,42.71624569,US,MSU,密歇根州立大学,Michigan State University,http://geo.msu.edu/,美国,硕士 博士,北美洲,United States
+36,-88.5539246,47.10121322,US,MTU,密歇根理工大学,Michigan Technological University,https://www.mtu.edu/forest/graduate/professional/mgis/,美国,硕士,北美洲,United States
+37,-76.4755726,42.4482881,US,Cornell,康奈尔大学,Cornell University,https://scs.cals.cornell.edu/,美国,硕士 博士,北美洲,United States
+38,-72.2582817,41.81073179,US,UConn,康涅狄格大学,University of Connecticut,https://geography.uconn.edu/,美国,硕士 博士,北美洲,United States
+39,-80.3869629,37.20408156,US,VT,弗吉尼亚理工大学,Virginia Polytechnic Institute and State Universit,https://cnre.vt.edu/,美国,博士,北美洲,United States
+40,-96.3487244,30.60659492,US,TAMU,德克萨斯农工大学,Texas A&M University,https://geography.tamu.edu/,美国,硕士 博士,北美洲,United States
+41,-97.7326584,30.28308457,US,UT Austin,德克萨斯大学奥斯汀分校,University of Texas at Austin,https://liberalarts.utexas.edu/geography/index.php,美国,硕士 博士,北美洲,United States
+42,-96.7496395,32.9829641,US,UT Dallas,德克萨斯大学达拉斯分校,University of Texas at Dallas,https://epps.utdallas.edu/about/programs/geospatial-information-sciences/,美国,硕士 博士,北美洲,United States
+43,-97.9310989,29.88842976,US,Texas State,德克萨斯州立大学,Texas State University,https://www.geo.txstate.edu/,美国,硕士 博士,北美洲,United States
+44,-106.6207695,35.08346392,US,UNM,新墨西哥大学,University of New Mexico,https://geography.unm.edu/,美国,硕士 博士,北美洲,United States
+45,-93.1777954,44.9832565,US,UMN,明尼苏达大学双城分校,University of Minnesota Twin Cities,https://cla.umn.edu/geography,美国,硕士 博士,北美洲,United States
+46,-117.0195007,46.72562409,US,Idaho,爱达荷大学,University of Idaho,https://www.uidaho.edu/sci/geography,美国,硕士 博士,北美洲,United States
+47,-91.5735555,41.66518593,US,UIowa,爱荷华大学,The University of Iowa,https://clas.uiowa.edu/geography/,美国,硕士 博士,北美洲,United States
+48,-93.6486,42.0266,US,Iowa State,爱荷华州立大学,Iowa State University of Science and Technology,https://ge-at.iastate.edu/,美国,硕士 博士,北美洲,United States
+49,-111.8284607,40.75037809,US,Utah,犹他大学,University of Utah,https://geog.utah.edu/,美国,硕士 博士,北美洲,United States
+50,-83.9307404,35.95132986,US,UTN,田纳西大学,"University of Tennessee, Knoxville",https://geography.utk.edu/,美国,硕士 博士,北美洲,United States
+51,-105.2664042,40.0061852,US,CU Boulder,科罗拉多大学,"University of Colorado, Boulder",https://www.colorado.edu/geography/,美国,硕士 博士,北美洲,United States
+52,-105.22439,39.74844382,US,Mines,科罗拉多矿业学校,Colorado School of Mines,https://gis.mines.edu/,美国,硕士,北美洲,United States
+53,-73.9734793,40.75072758,US,CUNY,纽约城市大学,City University of New York,https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Program-Information,美国,博士,北美洲,United States
+54,-73.7716913,42.66047409,US,UAlbany,纽约州立大学奥尔巴尼分校,"University at Albany, State University of New York",https://www.albany.edu/geographyplanning,美国,硕士,北美洲,United States
+55,-75.9698152,42.08866878,US,Binghamton,纽约州立大学宾厄姆顿分校,"University at Binghamton, the State University of New York",,美国,硕士,北美洲,United States
+56,-78.7885809,43.00084956,US,UB,纽约州立大学水牛城分校,"University at Buffalo, the State University of New York",http://www.buffalo.edu/cas/geography.html,美国,硕士 博士,北美洲,United States
+57,-68.669014,44.8990518,US,Maine,缅因大学,University of Maine,https://umaine.edu/scis/,美国,硕士 博士,北美洲,United States
+58,-84.5023727,38.02618827,US,UKY,肯塔基大学,University of Kentucky,https://geography.as.uky.edu/,美国,硕士 博士,北美洲,United States
+59,-81.899,41.145,US,Kent State,肯特州立大学,Kent State University,https://www.kent.edu/geography,美国,硕士 博士,北美洲,United States
+60,-79.9584961,39.6120362,US,WVU,西弗吉尼亚大学,West Virginia University,https://www.geo.wvu.edu/,美国,硕士 博士,北美洲,United States
+61,-91.1903,30.40145458,US,LSU,路易斯安纳州立大学,Louisiana State University,https://www.lsu.edu/ga/index.php,美国,硕士 博士,北美洲,United States
+62,-84.515419,39.12792964,US,Cincinnati,辛辛那提大学,University of Cincinnati,https://www.artsci.uc.edu/departments/geography.html,美国,硕士 博士,北美洲,United States
+63,-147.8313446,64.85550261,US,UAF,阿拉斯加大学费尔班克斯分校,"University of Alaska, Fairbanks",https://www.uaf.edu/geosciences/,美国,硕士 博士,北美洲,United States
+64,-94.1732597,36.06755593,US,UArk,阿肯色大学,University of Arkansas,https://fulbright.uark.edu/departments/geosciences/,美国,硕士 博士,北美洲,United States
+65,-76.1167145,43.01644635,US,Syracuse,雪城大学,Syracuse University,https://www.maxwell.syr.edu/geography-and-the-environment/,美国,硕士 博士,北美洲,United States
+66,-76.9456673,38.98583339,US,UMD,马里兰大学,University of Maryland at College Park,https://gis-info.github.io/www.geog.umd.edu,美国,硕士 博士,北美洲,United States
+67,-86.923,40.4237,US,Purdue,普渡大学,Purdue University,https://engineering.purdue.edu/CE/Academics/Graduate,美国,硕士 博士,北美洲,United States
+68,-123.2448864,49.25772233,CA,UBC,不列颠哥伦比亚大学,University of British Columbia,https://www.geog.ubc.ca/,加拿大,硕士 博士,北美洲,Canada
+69,-114.1424561,51.075758,CA,Calgory,卡尔加里大学,University of Calgary ,https://arts.ucalgary.ca/geography,加拿大,硕士 博士,北美洲,Canada
+70,-80.2214813,43.52814001,CA,Guelph,圭尔夫大学,University of Guelph,https://geg.uoguelph.ca/,加拿大,硕士 博士,北美洲,Canada
+71,-79.3954468,43.66129013,CA,Toronto,多伦多大学,University of Toronto,https://geography.utoronto.ca/department/,加拿大,硕士 博士,北美洲,Canada
+72,-79.2491913,43.11714943,CA,Brock,布洛克大学,Brock University,https://brocku.ca/social-sciences/geography/programs/graduate-program/,加拿大,硕士,北美洲,Canada
+73,-80.555191,43.47680926,CA,Waterloo,滑铁卢大学,University of Waterloo,https://uwaterloo.ca/geography-environmental-management,加拿大,硕士 博士,北美洲,Canada
+74,-79.5029068,43.76911045,CA,York,约克大学,York University,https://geography.gradstudies.yorku.ca/,加拿大,硕士 博士,北美洲,Canada
+75,-123.3078003,48.46153929,CA,UVic,维多利亚大学,University of Victoria,https://www.uvic.ca/socialsciences/geography/,加拿大,硕士 博士,北美洲,Canada
+76,-106.6278076,52.12758694,CA,USask,萨斯卡彻万大学,University of Saskatchewan,https://artsandscience.usask.ca/geography/,加拿大,硕士 博士,北美洲,Canada
+77,-81.2741089,43.00615354,CA,UWO,韦仕敦大学（西安大略大学）,Western University,https://geoenvironment.uwo.ca/,加拿大,硕士 博士,北美洲,Canada
+78,-122.92207,49.27809,CA,SFU,西蒙弗拉塞尔大学,Simon Fraser University,http://www.sfu.ca/geography.html,加拿大,硕士 博士,北美洲,Canada
+79,-113.5260201,53.52388043,CA,Alberta,阿尔伯塔大学,University of Alberta,https://www.ualberta.ca/engineering/research/groups/smart-transportation/index.html,加拿大,硕士 博士,北美洲,Canada
+80,-97.13881,49.8075,CA,Manitoba,马尼托巴大学,University of Manitoba ,http://umanitoba.ca/faculties/environment/departments/geography/index.html,加拿大,硕士 博士,北美洲,Canada
+81,-79.917469,43.26070608,CA,McMaster,麦克马斯特大学,McMaster University,https://www.science.mcmaster.ca/ees/,加拿大,硕士 博士,北美洲,Canada
+82,-73.5812759,45.50646721,CA,McGill,麦吉尔大学,McGill University,https://mcgill.ca/geography/,加拿大,硕士 博士,北美洲,Canada
+83,147.32365,-42.9036,AU,UTas,塔斯马尼亚大学,University of Tasmania,https://www.utas.edu.au/technology-environments-design/geography-and-spatial-sciences,澳大利亚,硕士 博士,大洋洲,Australia
+84,144.9612737,-37.79793311,AU,Melbourne ,墨尔本大学,University of Melbourne,https://infrastructure.eng.unimelb.edu.au/research/geomatics/,澳大利亚,硕士 博士,大洋洲,Australia
+85,115.8922863,-32.00687505,AU,Curtin,科廷大学,Curtin University,https://scieng.curtin.edu.au/schools/school-of-earth-and-planetary-sciences/spatial-sciences/,澳大利亚,硕士 博士,大洋洲,Australia
+86,115.8192444,-31.98143383,AU,UWA,西澳大学,University of Western Australia,https://www.uwa.edu.au/science/schools/uwa-school-of-agriculture-and-environment%a0,澳大利亚,硕士,大洋洲,Australia
+87,138.6041379,-34.91910319,AU,UAdel,阿德莱德大学,University of Adelaide,http://www.spatialpoints.com/,澳大利亚,硕士,大洋洲,Australia
+88,138.5691,-35.0244,AU,Flinders,弗林德斯大学,University of Flinders,"https://students.flinders.edu.au/my-course/course-rules/postgrad/mgis#:~:text=The%20Master%20of%20Geospatial%20Information,Diploma%20in%20Geographical%20Information%20Systems.",澳大利亚,硕士,大洋洲,Australia
+89,153.0049,-27.4975,AU,UQ,昆士兰大学,University of Queesland,https://sees.uq.edu.au/,澳大利亚,硕士 博士,大洋洲,Australia
+90,172.579,-43.5224,NZ,UC,坎特伯雷大学,University of Canterbury,https://www.canterbury.ac.nz/science/schools-and-departments/earth-and-environment/,新西兰,硕士 博士,大洋洲,New Zealand
+91,174.7642,-36.8536,NZ,AUT,奥克兰理工大学,Auckland University of Technology,https://aenz.aut.ac.nz/,新西兰,硕士 博士,大洋洲,New Zealand
+92,170.51223,-45.8646,NZ,Otago,奥塔哥大学,University of Otago,https://www.otago.ac.nz/surveying/index.html,新西兰,硕士 博士,大洋洲,New Zealand
+93,174.76569,-41.2901,NZ,VUW,惠灵顿维多利亚大学,Victoria University of Wellington,https://www.wgtn.ac.nz/sgees,新西兰,硕士 博士,大洋洲,New Zealand
+94,174.77243,-41.29832,NZ,Massey,梅西大学,Massey University,https://www.massey.ac.nz/massey/explore/departments/school-people-environment-planning/school-people-environment-planning_home.cfm,新西兰,硕士,大洋洲,New Zealand
+95,103.7782288,1.294045092,SG,NUS,新加坡国立大学,National University of Singapore,https://www.fas.nus.edu.sg/geog/,新加坡,硕士 博士,亚洲,Singapore
+96,6.0671997,50.778698,DE,RWTH,亚琛工业大学,RWTH Aachen University,https://www.amur.rwth-aachen.de/cms/~ofpe/AMUR/?lidx=1,德国,硕士 博士,欧洲,Germany
+97,8.41484,49.01191,DE,KIT,卡尔斯鲁厄理工学院,Karlsruhe Institute of Technology,https://www.ifgg.kit.edu/english/index.php,德国,硕士 博士,欧洲,Germany
+98,9.9516391,51.559196,DE,Gottingen,哥廷根大学,University of Gottingen,https://www.uni-goettingen.de/en/36647.html,德国,硕士 博士,欧洲,Germany
+99,10.8984375,48.2831929,DE,Uni-Augsburg,奥格斯堡大学,University of Augsburg ,https://www.uni-augsburg.de/de/fakultaet/fai/geo/,德国,硕士 博士,欧洲,Germany
+100,7.8484869,48.00166746,DE,Uni-Freiburg,弗莱堡大学,University of Freiburg,https://geographie.uni-freiburg.de/en/geographie-nahtstelle-zwischen-mensch-und-natur,德国,硕士 博士,欧洲,Germany
+101,13.7270737,51.02628073,DE,TUD,德累斯顿工业大学,Technical University of Dresden,https://tu-dresden.de/bu/umwelt,德国,硕士 博士,欧洲,Germany
+102,11.5813923,48.15034013,DE,LMU,慕尼黑大学,The Ludwig-Maximilians University,https://www.geographie.uni-muenchen.de/department/fiona_eng/index.php,德国,硕士 博士,欧洲,Germany
+103,11.567831,48.14799224,DE,TUM,慕尼黑工业大学,Technical University of Munich,https://www.lrg.tum.de/en/gis/home/,德国,硕士 博士,欧洲,Germany
+104,9.1042328,48.7428329,DE,Uni-Stuttgart,斯图加特大学,University of Stuttgart,https://www.ifp.uni-stuttgart.de/en/institute/,德国,硕士 博士,欧洲,Germany
+105,7.6002216,51.96674532,DE,Uni-Muenster,明斯特大学,University of Munster,https://www.uni-muenster.de/Geoinformatics/en/,德国,硕士 博士,欧洲,Germany
+106,13.3286905,52.51120639,DE,TUB,柏林工业大学,Technical University of Berlin,https://www.igg.tu-berlin.de/menue/ueber_uns/parameter/en/,德国,硕士 博士,欧洲,Germany
+107,13.2972336,52.46605036,DE,HUB,柏林洪堡大学,Humboldt University of Berlin,https://www.geographie.hu-berlin.de/en/geography_department,德国,硕士 博士,欧洲,Germany
+108,13.2925987,52.45203421,DE,FU Berlin,柏林自由大学,Free University of Berlin,https://www.geo.fu-berlin.de/en/geog/fachrichtungen/index.html,德国,硕士 博士,欧洲,Germany
+109,9.9853706,53.56513978,DE,Uni-Hamburg,汉堡大学,University of Hamburg,https://www.geo.uni-hamburg.de/geographie.html,德国,硕士 博士,欧洲,Germany
+110,9.7558594,52.29504228,DE,Uni-Hannover,汉诺威大学,University of Hannover,https://www.ikg.uni-hannover.de/en,德国,硕士 博士,欧洲,Germany
+111,7.086525,50.72450294,DE,Uni-Bonn,波恩大学,University of Bonn,https://www.geographie.uni-bonn.de/department,德国,硕士 博士,欧洲,Germany
+112,13.0132413,52.40019325,DE,Uni-Potsdam,波茨坦大学,University of Potsdam,https://www.uni-potsdam.de/en/umwelt/,德国,硕士 博士,欧洲,Germany
+113,8.6713028,49.41432372,DE,Uni-Heidelberg,海德堡大学,Heidelberg University,https://www.geog.uni-heidelberg.de/gis/,德国,硕士 博士,欧洲,Germany
+114,6.9349265,50.92662658,DE,Uni-Koeln,科隆大学,University of Cologne,https://geographie.uni-koeln.de/en/,德国,硕士 博士,欧洲,Germany
+115,11.5891171,50.92923685,DE,Uni-Jena,耶拿大学,University of Jena,https://www.geographie.uni-jena.de/en,德国,硕士 博士,欧洲,Germany
+116,-0.1331127,51.52433193,EN,UCL,伦敦大学学院,University College London,https://www.ucl.ac.uk/bartlett/casa/,英格兰,硕士 博士,欧洲,England
+117,-1.5538788,53.80389494,EN,Leeds,利兹大学,University of Leeds,https://environment.leeds.ac.uk/geography,英格兰,硕士 博士,欧洲,England
+118,-1.3949203,50.93355091,EN,Southampton,南安普顿大学,University of Southampton,https://www.southampton.ac.uk/geography/index.page,英格兰,硕士 博士,欧洲,England
+119,-2.2329712,53.46495632,EN,Manchester,曼彻斯特大学,University of Manchester,https://www.seed.manchester.ac.uk/geography/,英格兰,硕士 博士,欧洲,England
+120,-4.289217,55.87165121,ST,Glasgow,格拉斯哥大学,University of Glasgow,https://www.ubdc.ac.uk/,苏格兰,硕士 博士,欧洲,Scotland
+121,-3.1751347,55.92227744,ST,Edinburgh,爱丁堡大学,University of Edinburgh,https://www.ed.ac.uk/geosciences,苏格兰,硕士 博士,欧洲,Scotland
+122,-1.6152692,54.97939923,EN,Newcastle,纽卡斯尔大学,Newcastle University,https://www.ncl.ac.uk/engineering/research/civil/geomatics,英格兰,硕士 博士,欧洲,England
+123,-1.4861584,53.38122934,EN,Sheffield,谢菲尔德大学,The University of Sheffield,https://www.sheffield.ac.uk/geography,英格兰,硕士 博士,欧洲,England
+124,-0.1181,51.51148,EN,KCL,伦敦国王学院,King’s College London,https://www.kcl.ac.uk/nms/research/cusp-london,英格兰,硕士 博士,欧洲,England
+125,-1.9327,52.4508,EN,UBirm,伯明翰大学,University of Birmingham,https://www.birmingham.ac.uk/schools/gees/index.aspx,英格兰,硕士 博士,欧洲,England
+126,-2.78991,54.0103,EN,LanU,兰开斯特大学,Lancaster University,https://www.lancaster.ac.uk/geography/,英格兰,硕士 博士,欧洲,England
+127,-2.96748,53.40478,EN,ULiv,利物浦大学,University of Liverpool,https://www.liverpool.ac.uk/geography-and-planning/,英格兰,硕士 博士,欧洲,England
+128,-1.19734,52.9386,EN,UNott,诺丁汉大学,University of Nottingham,https://www.nottingham.ac.uk/geography/,英格兰,硕士 博士,欧洲,England
+129,5.1771355,52.0845696,NE,Utrecht,乌特勒支大学,Utrecht University,https://www.uu.nl/en/organisation/faculty-of-geosciences,荷兰,硕士 博士,欧洲,Netherlands
+130,4.3735886,51.99809331,NE,TU Delft,代尔夫特理工大学,Delft University of Technology,https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/,荷兰,硕士 博士,欧洲,Netherlands
+131,6.5631723,53.21911373,NE,Groningen,格罗宁根大学,University of Groningen,https://www.rug.nl/research/ursi/,荷兰,硕士 博士,欧洲,Netherlands
+132,6.8561554,52.2376821,NE,Twente,特温特大学,University of Twente,https://www.itc.nl/,荷兰,硕士 博士,欧洲,Netherlands
+133,4.8656774,52.33300517,NE,VU Amsterdam,阿姆斯特丹自由大学,Vrije University Amsterdam,https://spinlab.vu.nl/,荷兰,硕士 博士,欧洲,Netherlands
+134,8.5073662,47.40706326,CH,ETH Zurich,苏黎世联邦理工学院,Eidgenossische Technische Hochschule Zurich,https://ikg.ethz.ch/en/,瑞士,硕士 博士,欧洲,Switzerland
+135,8.5485542,47.37468325,CH,UZH,苏黎世大学,University of Zurich,https://www.geo.uzh.ch/en.html,瑞士,硕士 博士,欧洲,Switzerland
+136,6.5657043,46.51883137,CH,EPFL,洛桑联邦理工学院,Ecole Polytechnique Federale de Lausanne,https://www.epfl.ch/labs/lasig/,瑞士,硕士 博士,欧洲,Switzerland
+137,6.5811539,46.51918574,CH,Unil,洛桑大学,University of Lausann,https://www.unil.ch/igd/home.html,瑞士,硕士 博士,欧洲,Switzerland
+138,7.4286461,46.95204923,CH,Unibe,伯尔尼大学,University of Bern,https://www.geography.unibe.ch/,瑞士,硕士 博士,欧洲,Switzerland
+139,6.1442542,46.19947559,CH,Unige,日内瓦大学,University of Geneva,https://www.unige.ch/environnement/en/,瑞士,硕士 博士,欧洲,Switzerland
+140,13.2097721,55.71197853,SE,Lund,隆德大学,Lund University,https://www.nateko.lu.se/,瑞典,硕士 博士,欧洲,Sweden
+141,18.0718231,59.34877064,SE,KTH,瑞典皇家理工学院,KTH Royal Institute of Technology ,https://www.kth.se/en/som/avdelningar/gis/gis-1.62043,瑞典,硕士 博士,欧洲,Sweden
+142,18.0598068,59.36320752,SE,SU,斯德哥尔摩大学,Stockholm University,https://www.natgeo.su.se/,瑞典,硕士 博士,欧洲,Sweden
+143,11.9717073,57.69745126,SE,GU,哥德堡大学,University of Gothenburg,https://gvc.gu.se/english,瑞典,硕士 博士,欧洲,Sweden
+144,17.1197891,60.66720846,SE,HIG,耶夫勒大学,University of Gavle,https://www.hig.se/Ext/En/University-of-Gavle/Organisation/Akademier/Faculty-of-Engineering-and-Sustainable-Development/Departments-at-the-Faculty/Department-of-Computer-and-Geospatial-Sciences.html,瑞典,硕士,欧洲,Sweden
+145,10.7224846,59.93876222,NO,UiO,奥斯陆大学,University of Oslo,https://www.mn.uio.no/geo/english/,挪威,硕士 博士,欧洲,Norway
+146,10.407486,63.40946893,NO,NTNU,挪威科技大学,Norwegian University of Science and Technology,https://www.ntnu.edu/ibm/road-transort-and-geomatics,挪威,硕士 博士,欧洲,Norway
+147,24.9495649,60.17076288,FI,UH,赫尔辛基大学,University of Helsinki,https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography,芬兰,硕士 博士,欧洲,Finland
+148,24.8272133,60.18420862,FI,Aalto,阿尔托大学,Aalto University,https://www.aalto.fi/en/department-of-built-environment/geoinformatics,芬兰,硕士 博士,欧洲,Finland
+149,12.5598621,55.69867919,DK,KU,哥本哈根大学,University of Copenhagen,https://ign.ku.dk/english/research/geography/,丹麦,硕士 博士,欧洲,Denmark
+150,9.9797058,57.01522531,DK,AAU,奥尔堡大学,Aalborg University,https://vbn.aau.dk/en/organisations/arealforvaltning-og-geoinformatik,丹麦,硕士 博士,欧洲,Denmark
+151,16.3608313,48.21246297,AT,UWien,维也纳大学,University of Vienna,https://geographie.univie.ac.at/en/working-groups/cartography-and-geographic-information/,奥地利,硕士 博士,欧洲,Austria
+152,16.3696504,48.19597385,AT,TU Wien,维也纳工业大学,Vienna University of Technology,https://www.geo.tuwien.ac.at/,奥地利,硕士 博士,欧洲,Austria
+153,13.054719,47.79441826,AT,Uni-Salzburg,萨尔茨堡大学,University of Salzburg,https://zgis.at/,奥地利,硕士 博士,欧洲,Austria
+154,4.6821284,50.86079399,BE,KU Leuven,荷语鲁汶大学,Katholieke Universiteit Leuven,https://ees.kuleuven.be/geography/,比利时,硕士 博士,欧洲,Belgium
+155,4.3974495,50.81905911,BE,VUB,荷语布鲁塞尔自由大学,Vrije Universiteit Brussel,https://we.vub.ac.be/en/geography-department,比利时,硕士 博士,欧洲,Belgium
+156,3.7144089,51.04236529,BE,UGhent,根特大学,Ghent University ,http://www.geografie.ugent.be/en,比利时,硕士 博士,欧洲,Belgium
+157,9.2284298,45.47772196,IT,POLIMI,米兰理工大学,Polytechnic University of Milan,https://www.gisgeolab.polimi.it/,意大利,硕士 博士,欧洲,Italy
+158,-6.2210083,53.30339012,IR,UC Dublin,国立都柏林大学,University College Dublin,https://www.ucd.ie/geography/,爱尔兰,硕士 博士,欧洲,Ireland
+159,-6.6002941,53.38332837,IR,MU,梅努斯大学,Maynooth University,https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg,爱尔兰,硕士 博士,欧洲,Ireland
+160,114.1897488,22.27702442,HK,CUHK,香港中文大学,Chinese University of Hong Kong,https://www.grm.cuhk.edu.hk/eng/index.html,中国香港,硕士 博士,亚洲,HK China
+161,114.172411,22.33608387,HK,CityU,香港城市大学,City University of Hong Kong,http://bccw.cityu.edu.hk/main/wp_home.asp,中国香港,硕士 博士,亚洲,HK China
+162,114.2069149,22.41979621,HK,HKU,香港大学,University of Hong Kong,https://www.arch.hku.hk/programmes_/upad/,中国香港,硕士 博士,亚洲,HK China
+163,114.1834831,22.33403954,HK,Baptist,香港浸会大学,Hong Kong Baptist University,http://geog.hkbu.edu.hk/,中国香港,硕士 博士,亚洲,HK China
+164,114.1799641,22.3046614,HK,PolyU,香港理工大学,Hong Kong Polytechnic University,http://www.lsgi.polyu.edu.hk/,中国香港,硕士 博士,亚洲,HK China
+165,114.26327,22.3363,HK,HKUST,香港科技大学,Hong Kong University of Science and Technology,https://www.envr.ust.hk/,中国香港,硕士 博士,亚洲,HK China
+166,2.5841,48.8397,FR,UPEM,巴黎东马恩河谷大学,Universite Paris-Est Marne-la-Vallee,https://www.ensg.eu/?lang=fr,法国,硕士,欧洲,France
+167,5.06387,47.3129,FR,UBFC,勃艮第大学,Universite Bourgogne Franche Comte,https://www.u-bourgogne.fr/organisation/laboratoires-et-entites-de-recherche/laboratoire-d-economie-de-dijon-ledi.html,法国,硕士,欧洲,France
+168,1.4009,43.5791,FR,Tlse2,图卢兹第二大学,Universite Toulouse II Jean Jaures,https://geo.univ-tlse2.fr/,法国,硕士 博士,欧洲,France
+169,-1.70505,48.1179,FR,UR2,雷恩第二大学,University of Rennes 2,https://international.univ-rennes2.fr/structure/department-geography-and-spatial-planning,法国,硕士 博士,欧洲,France
+170,4.3917,45.4261,FR,USE,圣埃蒂安大学,Jean Monnet University of Saint-Etienne,https://fac-shs.univ-st-etienne.fr/fr/departements/geographie.html,法国,硕士,欧洲,France
+171,7.055,43.6244,FR,UCA,蔚蓝海岸大学,University of Côte d’Azur,http://web.univ-cotedazur.fr//en/idex/formations-idex/risks#.X3UUQGhKhPY,法国,硕士,欧洲,France
+172,126.99141,37.5882,SK,SKKU,成均馆大学,Sungkyunkwan University,https://enc.skku.edu/eng_enc/programs/departments/civil_intro.do#N,韩国,硕士 博士,亚洲,South Korea
+173,127.0255,37.59079,SK,KU,高丽大学,Korea University,https://www.egisrs.org/,韩国,硕士 博士,亚洲,South Korea
+174,126.917,37.3918,SK,Anyang,安养大学,Anyang University,http://www.anyang.ac.kr/urban/contents/contents.do?ciIdx=522&menuId=847,韩国,硕士 博士,亚洲,South Korea
+175,128.7982,35.9023,SK,KIU,庆一大学,Kyungil University,http://geosat.kiu.ac.kr/,韩国,硕士 博士,亚洲,South Korea
+176,126.9325,37.4565,SK,SNU,首尔大学,Seoul National University,https://cee.snu.ac.kr/english/index.php,韩国,硕士 博士,亚洲,South Korea
+177,127.0565,37.5838,SK,UOS,首尔市立大学,University of Seoul,https://www.uos.ac.kr/en/academics/colleges/cuscience/geolnformatics/introduction.do?epTicket=LOG,韩国,硕士 博士,亚洲,South Korea
+178,126.9363,37.56578,SK,Yonsei,延世大学,Yonsei University,http://scsi.yonsei.ac.kr/,韩国,硕士 博士,亚洲,South Korea
+179,14.4213,50.0871,CZ,CUNI,查尔斯大学,Charles University,https://www.natur.cuni.cz/geografie/studium?set_language=cs,捷克,硕士 博士,欧洲,Cezck
+180,17.24916,49.5948,CZ,UPOL,帕拉茨基大学,"Palacky University, Olomouc",http://www.geoinformatics.upol.cz/en/department-of-geoinformatics,捷克,硕士 博士,欧洲,Cezck
+181,19.0563,47.4905,HU,ELTE,罗兰大学,Eotvos Lorand University,http://lazarus.elte.hu/index.html,匈牙利,硕士 博士,欧洲,Hungary
