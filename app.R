@@ -14,7 +14,7 @@ for(i in 1:nrow(gis_universities)){
   country = toString(gis_universities$country[i])
   link = toString(gis_universities$web[i])
   
-  gis_universities$popup[i] = paste0("<center></br><h3>",cn_name,"</h3></center></br>",en_name," (",s_name,")</br>","<b>所在地</b>: ",country,"</br><b>开设学位</b>: ",deg,"</br><a href='",link,"' target='_blank'>项目网页...</a>")
+  gis_universities$popup[i] = paste0("<center></br><h3>",cn_name,"</h3></center></br>",en_name," (",s_name,")</br>","<b>所在地</b>: ",country,"</br><b>GIS开设学位</b>: ",deg,"</br><a href='",link,"' target='_blank'>项目网页...</a>")
 }
 
 
@@ -180,7 +180,7 @@ ui <- bootstrapPage(
     output$map <- renderLeaflet({
       leaflet(filteredData()) %>%
         addTiles(urlTemplate = "http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}",attribution = 'Google', group="Google Map") %>%
-        addProviderTiles(providers$Stamen.Toner, group = "Toner") %>%
+        addProviderTiles(providers$Esri.WorldGrayCanvas, group = "Esri") %>%
         #addProviderTiles(providers$TianDiTu.Satellite.Map) %>%
         #addChinaTiles(providers$TianDiTu.Satellite.Map) %>%
         addMarkers(~lon, ~lat, 
@@ -189,7 +189,7 @@ ui <- bootstrapPage(
                    labelOptions = labelOptions(textsize = "12px"),
                    popup = ~popup) %>%
         addLayersControl(
-          baseGroups = c("Google Map", "Toner"),
+          baseGroups = c("Google Map", "Esri"),
           position = c("topleft"),
           options = layersControlOptions(collapsed = TRUE)
         )
