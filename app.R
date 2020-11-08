@@ -43,8 +43,8 @@ flagIcon <- makeIcon(
   gis_universities$code == "NE" ~ "Country_flags/NE.png",
   gis_universities$code == "SG" ~ "Country_flags/SG.png",
   gis_universities$code == "CA" ~ "Country_flags/CA.png"),
-iconWidth = 40, iconHeight = 40,
-shadowWidth = 20, shadowHeight = 20
+iconWidth = 25, iconHeight = 25,
+shadowWidth = 15, shadowHeight = 10
 )
 
 ui <- bootstrapPage(
