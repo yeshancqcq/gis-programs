@@ -36,7 +36,7 @@ flagIcon <- makeIcon(
   gis_universities$code == "NZ" ~ "Country_flags/NZ.png",
   gis_universities$code == "HK" ~ "Country_flags/HK.png",
   gis_universities$code == "HU" ~ "Country_flags/HU.png",
-  gis_universities$code == "CZ" ~ "Country_flags/CZ.png",
+  gis_universities$code == "CZ" ~ "Country_flags/CZ.PNG",
   gis_universities$code == "AT" ~ "Country_flags/AT.png",
   gis_universities$code == "NO" ~ "Country_flags/NO.png",
   gis_universities$code == "IR" ~ "Country_flags/IR.png",
@@ -148,7 +148,7 @@ ui <- bootstrapPage(
         }else if(input$countries == "荷兰"){
           flagIcon$iconUrl <- rep(paste0("Country_flags/NE.png"), 23)
         }else if(input$countries == "捷克"){
-          flagIcon$iconUrl <- rep(paste0("Country_flags/CZ.png"), 23)
+          flagIcon$iconUrl <- rep(paste0("Country_flags/CZ.PNG"), 23)
         }else if(input$countries == "挪威"){
           flagIcon$iconUrl <- rep(paste0("Country_flags/NO.png"), 23)
         }else if(input$countries == "丹麦"){
