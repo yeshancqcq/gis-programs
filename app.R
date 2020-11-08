@@ -179,14 +179,20 @@ ui <- bootstrapPage(
     
     output$map <- renderLeaflet({
       leaflet(filteredData()) %>%
-        addTiles(urlTemplate = "http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}",attribution = 'Google') %>%
+        addTiles(urlTemplate = "http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}",attribution = 'Google', group="Google Map") %>%
+        addProviderTiles(providers$Stamen.Toner, group = "Toner") %>%
         #addProviderTiles(providers$TianDiTu.Satellite.Map) %>%
         #addChinaTiles(providers$TianDiTu.Satellite.Map) %>%
         addMarkers(~lon, ~lat, 
                    icon = filteredIcon(), 
                    #label = ~Player, 
                    labelOptions = labelOptions(textsize = "12px"),
-                   popup = ~popup)
+                   popup = ~popup) %>%
+        addLayersControl(
+          baseGroups = c("Google Map", "Toner"),
+          position = c("topleft"),
+          options = layersControlOptions(collapsed = TRUE)
+        )
     })
     
     observe({
